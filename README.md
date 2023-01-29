@@ -7,7 +7,7 @@
 
 
 ## Socials:
-<p style="font-size: 16px;"> www.linkedin.com/in/mukhammad-ortikov </p>
+<p style="font-size: 50px;"> www.linkedin.com/in/mukhammad-ortikov </p>
 
 # 💻 Tech Stack:
 
