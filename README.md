@@ -2,7 +2,7 @@
  🔭 Hi, I’m @muhammad-ortikov <br>
  🌱 I’m currently (re)learning Javascript and Python <br>
  👯 I’m looking to collaborate on web development <br>
- 🤔 I’m interested in DevOps, Web-development, Python, and AI <br>
+ 🤔 I’m interested in Web-development, Python, DevOps and AI <br>
  💬 How to reach me ortiqovm.n@mail.ru
 
 
