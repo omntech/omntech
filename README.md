@@ -3,7 +3,8 @@
  🌱 I’m currently (re)learning Javascript and Python <br>
  👯 I’m looking to collaborate on web development <br>
  🤔 I’m interested in Web-development, Python, DevOps and AI <br>
- 💬 How to reach me ortiqovm.n@mail.ru
+ 💬 How to reach me ortiqovm.n@mail.ru <br>
+ ⚡ Portfolio: https://github.com/omntech/portfolio
 
 
 ## Socials:
