@@ -5,7 +5,7 @@
  🤔 I’m interested in Web-development, Python, DevOps and AI <br>
  💬 How to reach me ortiqovm.n@mail.ru <br>
  ⚡ Portfolio: https://github.com/omntech/portfolio
- - Webpage: https://omntech.github.io/
+ ⚡ Webpage: https://omntech.github.io/
 
 
 ## Socials:
